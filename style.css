@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    align-items: start;
+    color: #ff00ffc2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
